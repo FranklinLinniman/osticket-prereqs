@@ -39,10 +39,10 @@ Here we have created a virtual machine in Microsoft Azure that is running 4 virt
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AKX1KTq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Be sure to enable IIS with CGI, if you forget to enable CGI you will not be able to run PHP (back end software that osTicket runs off of). Use a provided link to download and install PHP manager. Follow the Installation guide and install PHP manager. 
 </p>
 <br />
 
