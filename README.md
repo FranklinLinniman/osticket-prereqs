@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/tay8Mrd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here we have created a virtual machine in Microsoft Azure that is running 4 virtual CPU's. You can create your own resource group, or one will be created for you automatically after you have created your virtual machine. Once we have created our virtual machine, we will connect to it via Remote Desktop protocol. We will use this virtual machine for the initial installation of osTicket and to run osTicket in future labs.
+ 
 </p>
 <br />
 
