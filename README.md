@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and install PHP Manager for IIS 
 - Download and install the Rewrite Module 
 - Download PHP 7.3.8 
-- Download and install VC_redist.x86.exe
+- Download and install VC_redist.x86.exe (c++ redistributable)
 - Download and install MySQL 5.5.62
 
 <h2>Installation Steps</h2>
@@ -47,9 +47,17 @@ Be sure to enable IIS with CGI, if you forget to enable CGI you will not be able
 <br />
 
 <p>
-<img src=https://i.imgur.com/QsPqguZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QsPqguZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install the rewrite module by following the installation guide 
+</p>
+<br />
+
+                                                                                               
+<img src="https://i.imgur.com/6654vbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a directory for PHP on the root of C: drive. Then, download PHP using a provided link and unzip the contents into the PHP folder on C: drive.  
 </p>
 <br />
