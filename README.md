@@ -26,6 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download PHP 7.3.8 
 - Download and install VC_redist.x86.exe (c++ redistributable)
 - Download and install MySQL 5.5.62
+- Download and install HeidiSQL
 
 <h2>Installation Steps</h2>
 
