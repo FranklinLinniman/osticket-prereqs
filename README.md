@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/tay8Mrd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8eU0Czy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a virtual machine in Microsoft Azure that is running 4 virtual CPU's. You can create your own resource group, or one will be created for you automatically after you have created your virtual machine. Once we have created our virtual machine, we will connect to it via Remote Desktop protocol. We will use this virtual machine for the initial installation of osTicket and to run osTicket in future labs.
@@ -88,7 +88,7 @@ Reload IIS (Open IIS, Stop and Start the server)
 Install osTicket v1.15.8
 Download osTicket using a provided link,
  
-<img src="https://i.imgur.com/63quGHj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e27PVfN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
 Extract and copy “upload” folder to c:\inetpub\wwwroot,
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
@@ -145,13 +145,16 @@ Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
 
+
+<img src="https://i.imgur.com/50H2qEU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 Using a provided link, download and install HeidiSQL.
- 
-<img src="https://i.imgur.com/XK5c8Xg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
- 
+<p>
 Open Heidi SQL
+<p>
 Create a new session, root/Password1
+<p>
 Connect to the session
+<p>
 Create a database called “osTicket”
 
 Continue Setting up osticket in the browser
